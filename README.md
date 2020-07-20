@@ -9,4 +9,4 @@ Either you can download them and start a Jupyter Notebook session
 
 or you can [use binder](https://mybinder.org/v2/gh/zfit/python_hpc_TensorFlow_MIPT/master)
 
-or go to [Google Colab](https://colab.research.google.com/), search this respository and play around
+or go to [Google Colab](https://colab.research.google.com/), search this respository and run it
